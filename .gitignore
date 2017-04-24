@@ -9,4 +9,4 @@
 .externalNativeBuild
 
 .envs
-/values/secrets.xml
+secrets.xml
